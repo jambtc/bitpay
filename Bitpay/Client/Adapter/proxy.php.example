@@ -1,0 +1,6 @@
+<?php
+$myName = ""; // username
+$myPwd = ""; 	// password
+$proxy = "";	// proxy url
+$proxydata = $myName.":".$myPwd;
+?>
